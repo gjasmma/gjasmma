@@ -30,7 +30,7 @@ Take a look at some of the apps I've built—more coming soon!
   React · TypeScript · JavaScript · Python · Ruby · Node.js · HTML · CSS · Vite
 
 - **Expertise:**  
-  Full-Stack Web Development · Social Media Marketing · Ethical Hacking · Cybersecurity · Financial Education · Music Production
+  Full-Stack Web Development · Social Media Marketing · Ethical Hacking · Cybersecurity · Financial Education · Music Production · Business Advisor And Coaching · Blog Founder and Activist · Smm Panel Owner · Community Activist · Social Entrepreneur and Community Helper 
 
 ---
 
