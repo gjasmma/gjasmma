@@ -1,4 +1,4 @@
-# Hi, I'm gjasmma! 👋
+# Hi, I'm Gidon Joseph The Founder of GJA-SMMA.COM and Etc.! 👋
 
 Welcome to my GitHub!  
 I'm a **professional full-stack software developer** with a passion for building impactful digital solutions and empowering communities.
