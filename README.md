@@ -1,4 +1,4 @@
-# Hi, I'm Gidon Joseph The The Polymath’s Kingdom
+# Hi, I'm Gidon Joseph The The Polymath’s Kingdom 🌐🌐🌐🌐
 
  GJA-SMMA.COM , GJA-SECURITY.COM , GJA-JEWELRY.COM , GJA-BLOG.COM , GJA-SMM.COM and MORE...! 👋
 
