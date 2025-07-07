@@ -1,7 +1,9 @@
-# Hi, I'm Gidon Joseph The Founder of GJA-SMMA.COM and Etc.! 👋
+# Hi, I'm Gidon Joseph The The Polymath’s Kingdom
+
+ GJA-SMMA.COM , GJA-SECURITY.COM , GJA-JEWELRY.COM , GJA-BLOG.COM , GJA-SMM.COM and MORE...! 👋
 
 Welcome to my GitHub!  
-I'm a **professional full-stack software developer** with a passion for building impactful digital solutions and empowering communities.
+I'm a **professional full-stack software developer AND SMMA FOUNDER** with a passion for building impactful digital solutions and empowering communities.
 
 ---
 
