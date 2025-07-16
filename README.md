@@ -7,13 +7,32 @@ I'm a **professional full-stack software developer AND SMMA FOUNDER** with a pas
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-- 💻 **Full-Stack Developer:** Skilled in React, TypeScript, Vite, HTML, CSS, JavaScript, Node.js, Python, and Ruby.
-- 🚀 **Entrepreneur:** Founder of a social media marketing agency, helping brands grow their digital presence.
-- 🛡️ **Ethical Hacker & Cybersecurity Analyst:** Advocate for safe, secure, and ethical technology.
-- 🎵 **Musical Artist:** Creating music and expressing creativity beyond code.
-- 💸 **Financial Freedom Founder:** Dedicated to helping others achieve independence and success.
+💻 **Full-Stack Software Developer**  
+Skilled in building modern, scalable applications using React, TypeScript, Vite, Node.js, Python, Ruby, HTML, CSS, and JavaScript. Proficient in both frontend and backend architecture with a focus on performance and maintainability.
+
+🧱 **Security Software Developer**  
+Expert in securing web infrastructure, APIs, and cloud-native systems. Specializes in threat modeling, secure code review, vulnerability assessment, reverse engineering, and building hardened services using Go, Node.js, and containerized stacks.
+
+🛡️ **Ethical Hacker & Cybersecurity Analyst**  
+Defender of safe and ethical technology. Deep understanding of network protocols, web server internals, reverse proxies, SSRF, HTTP desync attacks, GraphQL DoS, and exploit mitigation. Experienced in penetration testing and red teaming strategies.
+
+🎯 **Technical Coach & Mentor**  
+Passionate about helping others level up their careers in software engineering and cybersecurity. Able to break down complex systems and teach with clarity—from code structure to cloud security models.
+
+🚀 **Entrepreneur & Startup Founder**  
+Founder of a social media marketing agency focused on helping brands grow through digital strategy, automation, and content engagement. Combines technical expertise with growth marketing.
+
+🧠 **Systems Thinker & Infrastructure Architect**  
+Designs efficient, resilient systems. Focus on web server optimization, caching strategies, observability, and DevSecOps. Comfortable working across Linux, Docker, CI/CD pipelines, and cloud-native tooling.
+
+🎵 **Musical Artist & Creative Technologist**  
+Believes in the power of creativity through code and sound. Actively producing music and exploring the intersection of technology, emotion, and art.
+
+💸 **Financial Freedom Advocate**  
+Building tools, strategies, and educational content to empower others toward financial independence and sustainable success.
+
 
 ---
 
