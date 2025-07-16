@@ -3,7 +3,7 @@
  GJA-SMMA.COM , GJA-SECURITY.COM , GJA-JEWELRY.COM , GJA-BLOG.COM , GJA-SMMP.COM and MORE...! 👋
 
 Welcome to my GitHub!  
-I'm a **professional full-stack software developer AND SMMA FOUNDER** with a passion for building impactful digital solutions and empowering communities.
+I'm a **Security-Focused Full-Stack Developer • Ethical Hacker • SMMA Founder & Technical Mentor** with a passion for building impactful digital solutions and empowering communities.
 
 ---
 
