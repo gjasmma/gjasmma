@@ -9,29 +9,77 @@ I'm a **professional full-stack software developer AND SMMA FOUNDER** with a pas
 
 👨‍💻 About Me
 
-💻 **Full-Stack Software Developer**  
-Skilled in building modern, scalable applications using React, TypeScript, Vite, Node.js, Python, Ruby, HTML, CSS, and JavaScript. Proficient in both frontend and backend architecture with a focus on performance and maintainability.
+## 💻 Full-Stack Software Developer  
+Skilled in modern web technologies including:
+- React, TypeScript, Vite, HTML, CSS, JavaScript
+- Node.js, Python, Ruby
+- RESTful & GraphQL APIs
+- Scalable backend architecture and frontend UI/UX
 
-🧱 **Security Software Developer**  
-Expert in securing web infrastructure, APIs, and cloud-native systems. Specializes in threat modeling, secure code review, vulnerability assessment, reverse engineering, and building hardened services using Go, Node.js, and containerized stacks.
+I build fast, reliable, and maintainable applications—from MVPs to full production systems—focusing on developer experience and security from day one.
 
-🛡️ **Ethical Hacker & Cybersecurity Analyst**  
-Defender of safe and ethical technology. Deep understanding of network protocols, web server internals, reverse proxies, SSRF, HTTP desync attacks, GraphQL DoS, and exploit mitigation. Experienced in penetration testing and red teaming strategies.
+---
 
-🎯 **Technical Coach & Mentor**  
-Passionate about helping others level up their careers in software engineering and cybersecurity. Able to break down complex systems and teach with clarity—from code structure to cloud security models.
+## 🧱 Security Software Developer  
+Focused on building secure-by-design systems and hardened backend services.
 
-🚀 **Entrepreneur & Startup Founder**  
-Founder of a social media marketing agency focused on helping brands grow through digital strategy, automation, and content engagement. Combines technical expertise with growth marketing.
+Key strengths include:
+- Reverse proxy development (Go `net/http`, `httputil`)
+- SSRF mitigation and request smuggling detection
+- Web server internals (NGINX, TLS, caching layers)
+- Secure API and identity access design
+- Static analysis, threat modeling, secure code reviews
 
-🧠 **Systems Thinker & Infrastructure Architect**  
-Designs efficient, resilient systems. Focus on web server optimization, caching strategies, observability, and DevSecOps. Comfortable working across Linux, Docker, CI/CD pipelines, and cloud-native tooling.
+---
 
-🎵 **Musical Artist & Creative Technologist**  
-Believes in the power of creativity through code and sound. Actively producing music and exploring the intersection of technology, emotion, and art.
+## 🛡️ Cybersecurity Analyst & Ethical Hacker  
+I conduct full-stack vulnerability assessments, pentesting, and red-team simulations for cloud-native and monolithic apps. Areas of focus:
+- HTTP smuggling
+- GraphQL-specific DoS
+- Cache poisoning
+- Misconfigured proxies/load balancers
+- CSP and security header analysis
 
-💸 **Financial Freedom Advocate**  
-Building tools, strategies, and educational content to empower others toward financial independence and sustainable success.
+---
+
+## 🎯 Technical Coach & Mentor  
+I support engineers through:
+- Career coaching and mentorship
+- Learning roadmap design (e.g., Go reverse proxy labs)
+- Hands-on labs and real-world security projects
+- Clean code and scalable system design practices
+
+---
+
+## 🚀 Entrepreneur & SMMA Founder  
+I lead a **Social Media Marketing Agency** that helps brands grow using:
+- Digital automation and analytics
+- Lead-generation strategies
+- Personal brand content and marketing funnels
+- Systems that combine creativity + tech
+
+---
+
+## 🧠 Systems Thinker & Infrastructure Architect  
+Comfortable architecting secure, scalable systems using:
+- Docker, NGINX, GitHub Actions, Linux
+- HTTP/2, TLS config, API Gateways, reverse proxies
+- Custom WAFs, rate limiting, observability tools
+
+---
+
+## 🎵 Creative Technologist & Music Producer  
+I produce original music as a form of digital expression and balance. I believe creativity drives innovation, whether in code or sound. Always exploring how tech and emotion intersect.
+
+---
+
+## 💸 Financial Freedom Advocate  
+I'm passionate about financial independence through:
+- Digital entrepreneurship
+- Automation
+- Scalable product ecosystems
+- Empowering others to grow with tech and strategy
+
 
 
 ---
@@ -48,10 +96,21 @@ Take a look at some of the apps I've built—more coming soon!
 ## 🛠️ Skills
 
 - **Languages & Frameworks:**  
-  React · TypeScript · JavaScript · Python · Ruby · Node.js · HTML · CSS · Vite
+  React · TypeScript · JavaScript · Python · Ruby · Node.js · HTML · CSS · Vite · Go
 
 - **Expertise:**  
-  Full-Stack Web Development · Social Media Marketing · Ethical Hacking · Cybersecurity · Financial Education · Music Production · Business Advisor And Coaching · Blog Founder and Activist · Smm Panel Owner · Community Activist · Social Entrepreneur and Community Helper 
+  Full-Stack Web Development · Social Media Marketing · Ethical Hacking · Cybersecurity · Security Software Developer · Financial Education · Music Production · Business Advisor And Coaching · Blog Founder and Activist · Smm Panel Owner · Community Activist · Social Entrepreneur and Community Helper 
+
+---
+
+### ✅ Services Offered:
+- Secure full-stack app development (React, Go, Node.js, Python)
+- API design and reverse proxy security (GraphQL, REST, gRPC)
+- Penetration testing and code auditing
+- Web server hardening and proxy-level WAF integration
+- DevOps & CI/CD automation (Docker, GitHub Actions, Linux)
+- Digital marketing & content systems for brand growth (SMMA services)
+- Technical coaching & custom learning labs
 
 ---
 
@@ -59,11 +118,20 @@ Take a look at some of the apps I've built—more coming soon!
 
 - 📸 [Instagram: gja_youngin](https://www.instagram.com/gja_youngin)
 - 💼 [Instagram: gja_smm](https://www.instagram.com/gja_smm)
-<!-- Add more profiles or links as you wish -->
+**Email:** `gjaappstore@gmail.com`
 
 ---
 
 ## 🤝 Let’s Collaborate!
+
+If you're a **startup**, **brand**, or **organization** looking to build fast, secure, scalable, and creative digital systems—I’m available for:
+
+- 🔐 Secure full-stack app development
+- 🌐 Reverse proxy and API security hardening
+- 🧪 Pentesting and code auditing
+- 🔧 Infrastructure automation (Docker, CI/CD, TLS)
+- 📊 Digital marketing strategy & system building (SMMA)
+- 🧑‍🏫 1-on-1 mentorship and coaching sessions
 
 # 🌐 The Polymath’s Kingdom: Empire Map & Expansion Blueprint
 
