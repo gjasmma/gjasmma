@@ -68,8 +68,8 @@ Comfortable architecting secure, scalable systems using:
 
 ---
 
-## 🎵 Creative Technologist & Music Producer  
-I produce original music as a form of digital expression and balance. I believe creativity drives innovation, whether in code or sound. Always exploring how tech and emotion intersect.
+## 🎵 Creative Technologist & Musical Artist  
+I produce original music as a form of digital expression and balance. I believe creativity drives innovation, whether in code or sound. Always exploring how tech and emotion intersect. I Also Have Eps, singles and etc By the Name GJA YOUNGIN ALL OVER SOCIAL MEDIA AND SEARCH ENGINES CHECK ME OUT ! 
 
 ---
 
