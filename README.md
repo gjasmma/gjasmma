@@ -90,6 +90,8 @@ Take a look at some of the apps I've built—more coming soon!
 
 - [gja_youngin Instagram](https://www.instagram.com/gja_youngin)
 - [gja_smm Instagram](https://www.instagram.com/gja_smm)
+   (https://github.com/gjasmma?tab=repositories) - Apps , Resume` , Softwares And CyberSecurity Softwares.
+  - [Automations| Apps | SMMA STRATEGIES] (https://www.instagram.com/ysnmg_il/)
 
 ---
 
