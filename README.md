@@ -1,3 +1,6 @@
+# GJA SMMA — Social Media Marketing & Software Developer , Automation Tools
+
+
 # Hi, I'm Gidon Joseph The Polymath’s Kingdom AND Emperor 🌐🌐🌐🌐
 
  GJA-SMMA.COM , GJA-SECURITY.COM , GJA-JEWELRY.COM , GJA-BLOG.COM , GJA-SMMP.COM and MORE...! 👋
