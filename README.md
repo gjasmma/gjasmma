@@ -3,7 +3,7 @@
 
 # Hi, I'm Gidon Joseph The Polymath’s Kingdom AND Emperor 🌐🌐🌐🌐
 
- GJA-SMMA.COM , GJA-SECURITY.COM , GJA-JEWELRY.COM , GJA-BLOG.COM , GJA-SMMP.COM and MORE...! 👋
+ GJA-SMMA.COM , GJA-SECURITY.COM , GJA-JEWELRY.COM , GJA-BLOG.COM , GJA-SMMP.COM , GJA-SMMA-ECOMMERCE-COACHING.COM , GIDON-JOSEPH.COM , MUSICAL ARTIST GJA YOUNGIN and MORE...! 👋
 
 Welcome to my GitHub!  
 I'm a **Security-Focused Full-Stack Developer • Ethical Hacker • SMMA Founder & Technical Mentor** “I create secure, high-impact digital solutions that drive growth, empower communities, and make technology work for people and transform organizations.”
