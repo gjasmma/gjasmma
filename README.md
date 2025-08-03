@@ -14,8 +14,8 @@ I'm a **Security-Focused Full-Stack Developer • Ethical Hacker • SMMA Founde
 
 ## 💻 Full-Stack Software Developer  
 Skilled in modern web technologies including:
-- React, TypeScript, Vite, HTML, CSS, JavaScript
-- Node.js, Python, Ruby
+- React, TypeScript, Vite, HTML, CSS, JavaScript , Rescript
+- Node.js, Python, Ruby , Rust
 - RESTful & GraphQL APIs
 - Scalable backend architecture and frontend UI/UX
 
