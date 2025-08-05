@@ -97,7 +97,7 @@ Take a look at some of the apps I've built—more coming soon!
 - [Automations| Apps | SMMA STRATEGIES] (https://www.instagram.com/ysnmg_il/)
 - Full-Stack Developer | Security Engineer | Creative Technologist [https://gidon-joseph.ct.ws/]
 - GJA SMMA — Automation-Driven Marketing & Full-Stack Development [https://gja-smma.ct.ws/]
--GJA-SMMA: The World's Leading Software Marketing Agency [https://gja-smma.onrender.com/]
+- GJA-SMMA: The World's Leading Software Marketing Agency [https://gja-smma.onrender.com/]
 
 ---
 
