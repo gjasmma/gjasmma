@@ -97,13 +97,14 @@ Take a look at some of the apps I've built—more coming soon!
 - [Automations| Apps | SMMA STRATEGIES] (https://www.instagram.com/ysnmg_il/)
 - Full-Stack Developer | Security Engineer | Creative Technologist [https://gidon-joseph.ct.ws/]
 - GJA SMMA — Automation-Driven Marketing & Full-Stack Development [https://gja-smma.ct.ws/]
+-GJA-SMMA: The World's Leading Software Marketing Agency [https://gja-smma.onrender.com/]
 
 ---
 
 ## 🛠️ Skills
 
 - **Languages & Frameworks:**  
-  React · TypeScript · JavaScript · Python · Ruby · Node.js · HTML · CSS · Vite · Go
+  React · TypeScript · JavaScript · Python · Ruby · Node.js · HTML · CSS · Vite · Go · Rust · Rescript
 
 - **Expertise:**  
   Full-Stack Web Development · Professional Full-Stack Software Developer · Social Media Marketing · Certified Ethical Hacking · Cybersecurity Analyst · Security Software Developer · Financial Education · Music Production · Business Advisor And Coaching · Blog Founder and Activist · Smm Panel Owner · Community Activist · Social Entrepreneur and Community Helper 
