@@ -3,7 +3,9 @@
 
 # Hi, I'm Gidon Joseph The Polymath’s Kingdom AND Emperor 🌐🌐🌐🌐
 
- GJA-SMMA.COM , GJA-SECURITY.COM , GJA-JEWELRY.COM , GJA-BLOG.COM , GJA-SMMP.COM , GJA-SMMA-ECOMMERCE-SHOP.COM , GIDON-JOSEPH.COM , MUSICAL ARTIST GJA YOUNGIN and MORE...! 👋
+ GJA-SMMA.COM , GJA-SECURITY.COM , GJA-JEWELRY.COM , GJA-BLOG.COM , GJA-SMMP.COM , GJA-SMMA-ECOMMERCE-SHOP.COM , GIDON-JOSEPH.COM , MUSICAL ARTIST GJA YOUNGIN and Apple Security Software Developer
+Specializing in building robust, secure applications for Apple platforms — focusing on encryption, biometric authentication, and user privacy.
+Learn more about Apple’s developer programs here: https://developer.apple.com...! 👋
 
 Welcome to my GitHub!  
 I'm a **Security-Focused Full-Stack Developer • Ethical Hacker • SMMA Founder & Technical Mentor** “I create secure, high-impact digital solutions that drive growth, empower communities, and make technology work for people and transform organizations.”
@@ -32,6 +34,12 @@ Key strengths include:
 - Web server internals (NGINX, TLS, caching layers)
 - Secure API and identity access design
 - Static analysis, threat modeling, secure code reviews
+
+---
+
+## 💻🔐🛡️ Apple Security Software Developer 
+Specializing in building robust, secure applications for Apple platforms — focusing on encryption, biometric authentication, and user privacy.
+Learn more about Apple’s developer programs here: https://developer.apple.com
 
 ---
 
