@@ -37,9 +37,9 @@ Key strengths include:
 
 ---
 
-## 💻🔐🛡️ Apple Security Software Developer 
+## 💻🔐🛡️🍎 Apple Security Software Developer 
 Specializing in building robust, secure applications for Apple platforms — focusing on encryption, biometric authentication, and user privacy.
-Learn more about Apple’s developer programs here: https://developer.apple.com
+Learn more about Apple’s developer programs here: https://developer.apple.com/ 🍏
 
 ---
 
