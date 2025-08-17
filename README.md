@@ -112,7 +112,7 @@ Take a look at some of the apps I've built—more coming soon!
 ## 🛠️ Skills
 
 - **Languages & Frameworks:**  
-  React · TypeScript · JavaScript · Python · Ruby · Node.js · HTML · CSS · Vite · Go · Rust · Rescript
+  React · TypeScript · JavaScript · Python · Ruby · Node.js · HTML · CSS · Vite · Go · Rust · Rescript · Swift
 
 - **Expertise:**  
   Full-Stack Web Development · Professional Full-Stack Software Developer · Social Media Marketing · Certified Ethical Hacking · Cybersecurity Analyst · Security Software Developer · Financial Education · Music Production · Business Advisor And Coaching · Blog Founder and Activist · Smm Panel Owner · Community Activist · Social Entrepreneur and Community Helper 
