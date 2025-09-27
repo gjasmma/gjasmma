@@ -7,12 +7,42 @@
 Specializing in building robust, secure applications for Apple platforms — focusing on encryption, biometric authentication, and user privacy.
 Learn more about Apple’s developer programs here: https://developer.apple.com...! 👋
 
-Welcome to my GitHub!  
-I'm a **Security-Focused Full-Stack Developer • Ethical Hacker • SMMA Founder & Technical Mentor** “I create secure, high-impact digital solutions that drive growth, empower communities, and make technology work for people and transform organizations.”
+Welcome to my GitHub! 
+**I’m a Security-Focused Full-Stack Developer • Ethical Hacker • SMMA Founder & Technical Mentor • Full-Stack AI Engineer.**
+I combine expertise in **deep learning**, **machine learning**, and **artificial intelligence** with a strong foundation in **full-stack development** and **ethical hacking**. I specialize in designing and deploying advanced AI systems that drive innovation, from **generative AI models** (text-to-text, text-to-image) to **secure web applications**. My mission is to create **secure**, **high-impact digital solutions** that not only empower businesses and communities but also transform organizations by making technology work for people. With a unique blend of technical expertise and a passion for mentorship, I help drive growth through cutting-edge AI technology, while prioritizing security and ethical practices in every project I undertake.
 
 ---
 
 👨‍💻 About Me
+
+---
+
+## 🤖 **Full-Stack AI Engineer**
+
+A skilled **Full-Stack AI Engineer** with expertise in deep learning, machine learning, and artificial intelligence systems. I specialize in designing and deploying advanced AI models for applications such as text-to-text, image-to-text, text-to-image, and generative AI systems. From neural networks (CNN, RNN) to generative adversarial networks (GANs), I create AI solutions that learn, adapt, and drive innovation across industries.
+
+**Key Technologies & Tools**:
+
+* **Machine Learning Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn
+* **Deep Learning Models**: Convolutional Neural Networks (CNNs), Generative Adversarial Networks (GANs), Transformers
+* **AI APIs**: GPT-4, DALL·E, OpenAI API
+* **Programming**: Python, TensorFlow.js, JavaScript, Node.js
+* **Web Integration**: REST APIs, GraphQL, WebSockets
+* **Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes
+
+**What I Do**:
+I design, develop, and deploy AI-powered applications that leverage cutting-edge algorithms and data science to create secure, scalable, and intelligent solutions. I also focus on ensuring privacy, security, and ethical considerations in all AI models and their implementation. Whether it’s developing custom AI models or integrating pre-built APIs like GPT-4 for text generation or DALL·E for image synthesis, I ensure that technology serves to amplify creativity and solve real-world problems.
+
+**Example Projects**:
+
+* **AI Chatbot**: A custom-built conversational AI using GPT-4 for natural language processing that can generate, understand, and engage in dynamic conversations.
+* **Text-to-Image Generator**: Leveraging DALL·E's API to generate high-quality images based on textual descriptions, enabling unique creative outputs.
+* **Security-Focused AI Applications**: Developing AI-based security tools that analyze threats and protect applications in real-time using machine learning.
+
+**How I Work**:
+I build end-to-end AI solutions, from model design and training to deployment in web apps. My approach combines full-stack development with a deep understanding of AI technologies, ensuring that AI features are seamlessly integrated into scalable web and mobile applications. My security-first mindset ensures that data privacy, model robustness, and ethical AI standards are maintained throughout the process.
+
+---
 
 ## 💻 Full-Stack Software Developer  
 Skilled in modern web technologies including:
