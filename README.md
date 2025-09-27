@@ -142,10 +142,11 @@ Take a look at some of the apps I've built—more coming soon!
 ## 🛠️ Skills
 
 - **Languages & Frameworks:**  
-  React · TypeScript · JavaScript · Python · Ruby · Node.js · HTML · CSS · Vite · Go · Rust · Rescript · Swift
+  React · TypeScript · JavaScript · Python · Ruby · Node.js · HTML · CSS · Vite · Go · Rust · Rescript · Swift · clojurescript · AI
 
 - **Expertise:**  
-  Full-Stack Web Development · Professional Full-Stack Software Developer · Social Media Marketing · Certified Ethical Hacking · Cybersecurity Analyst · Security Software Developer · Financial Education · Music Production · Business Advisor And Coaching · Blog Founder and Activist · Smm Panel Owner · Community Activist · Social Entrepreneur and Community Helper 
+  Full-Stack Web Development · Professional Full-Stack Software Developer · Social Media Marketing · Certified Ethical Hacking · Cybersecurity Analyst · Security Software Developer · Financial Education · Music Production · Business Advisor And Coaching · Blog Founder and Activist · Smm Panel Owner · Community Activist · Social Entrepreneur and Community Helper · Full-Stack AI 
+  Engineer
 
 ---
 
@@ -157,6 +158,7 @@ Take a look at some of the apps I've built—more coming soon!
 - DevOps & CI/CD automation (Docker, GitHub Actions, Linux)
 - Digital marketing & content systems for brand growth (SMMA services)
 - Technical coaching & custom learning labs
+- AI machine generator & Content creator (OpenAI , API , Generator etc)
 
 ---
 
@@ -178,7 +180,7 @@ If you're a **startup**, **brand**, or **organization** looking to build fast, s
 - 🔧 Infrastructure automation (Docker, CI/CD, TLS)
 - 📊 Digital marketing strategy & system building (SMMA)
 - 🧑‍🏫 1-on-1 mentorship and coaching sessions
-
+- 🤖 AI machine generator & Content creator (OpenAI , API , Generator etc)
 # 🌐 The Polymath’s Kingdom: Empire Map & Expansion Blueprint
 
 ---
