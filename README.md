@@ -56,15 +56,51 @@ I build fast, reliable, and maintainable applications—from MVPs to full produc
 ---
 
 ## 🧱 Security Software Developer  
-Focused on building secure-by-design systems and hardened backend services.
+Focused on building secure‑by‑design systems and hardened backend services.
 
 Key strengths include:
-- Reverse proxy development (Go `net/http`, `httputil`)
-- SSRF mitigation and request smuggling detection
-- Web server internals (NGINX, TLS, caching layers)
-- Secure API and identity access design
-- Static analysis, threat modeling, secure code reviews
 
+Reverse proxy development (Go net/http, httputil)
+
+Designed custom reverse proxies with advanced routing, TLS termination, and load balancing.
+
+Implemented request validation pipelines to block malformed or malicious traffic at the edge.
+
+SSRF mitigation and request smuggling detection
+
+Built layered defenses against SSRF, including strict outbound request policies, DNS pinning, and metadata service isolation.
+
+Developed detection logic for HTTP request smuggling across reverse proxies and caching layers, reducing exposure to parsing inconsistencies.
+
+Web server internals (NGINX, TLS, caching layers)
+
+Hardened NGINX deployments with HSTS, OCSP stapling, TLS 1.3 enforcement, and secure cipher suites.
+
+Secured caching layers against poisoning and leakage, ensuring integrity of sensitive responses.
+
+Secure API and identity access design
+
+Architected APIs with strong authentication flows (OAuth2, JWT, mTLS) and fine‑grained authorization models.
+
+Integrated identity providers with zero‑trust principles to minimize lateral movement risks.
+
+Static analysis, threat modeling, secure code reviews
+
+Applied static analysis tools (GoSec, Bandit, Semgrep) to proactively identify vulnerabilities.
+
+Led threat modeling workshops to anticipate attack vectors and design mitigations.
+
+Conducted secure code reviews emphasizing exploit prevention, secure patterns, and developer education.
+
+Additional capabilities:
+
+Cloud security hardening (IAM policy design, VPC isolation, Kubernetes/Docker security).
+
+Incident response & monitoring (SIEM integration, anomaly detection, forensic readiness).
+
+Cryptography practices (key management, secure hashing, encryption at rest/in transit).
+
+DevSecOps leadership (embedding security checks into CI/CD pipelines for continuous compliance).
 ---
 
 ## 💻🔐🛡️🍎 Apple Security Software Developer 
@@ -74,13 +110,49 @@ Learn more about Apple’s developer programs here: https://developer.apple.com 
 ---
 
 ## 🛡️ Cybersecurity Analyst & Ethical Hacker  
-I conduct full-stack vulnerability assessments, pentesting, and red-team simulations for cloud-native and monolithic apps. Areas of focus:
-- HTTP smuggling
-- GraphQL-specific DoS
-- Cache poisoning
-- Misconfigured proxies/load balancers
-- CSP and security header analysis
+I conduct full‑stack vulnerability assessments, penetration testing, and red‑team simulations for both cloud‑native and monolithic applications.
 
+Areas of focus include:
+
+HTTP smuggling
+
+Identifying and exploiting inconsistencies in request parsing across proxies and servers.
+
+Designing detection and mitigation strategies to prevent bypass of authentication and WAF controls.
+
+GraphQL‑specific DoS
+
+Crafting complex query patterns to expose performance bottlenecks and denial‑of‑service risks.
+
+Implementing query depth/complexity limits and schema hardening to ensure resilience.
+
+Cache poisoning
+
+Assessing caching layers for injection vectors that lead to corrupted or malicious responses.
+
+Deploying cache‑key normalization and strict header validation to prevent exploitation.
+
+Misconfigured proxies/load balancers
+
+Detecting insecure routing, header manipulation, and trust boundary violations.
+
+Hardening configurations to enforce secure forwarding, TLS termination, and isolation of internal services.
+
+CSP and security header analysis
+
+Reviewing Content Security Policy implementations for gaps that allow XSS or data exfiltration.
+
+Auditing and enforcing modern security headers (HSTS, X‑Frame‑Options, Referrer‑Policy) to strengthen browser‑side defenses.
+
+Additional capabilities:
+
+Cloud‑native attack simulations (IAM misconfigurations, container breakout, Kubernetes RBAC flaws).
+
+Advanced red‑team tactics including lateral movement, privilege escalation, and persistence mechanisms.
+
+Automated vulnerability scanning integrated with manual exploitation for comprehensive coverage.
+
+Reporting and remediation guidance tailored to developer and executive audiences.
 ---
 
 ## 🎯 Technical Coach & Mentor  
